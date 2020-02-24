@@ -21,3 +21,5 @@ git clone 주소 git pull
 issue는 게시판 기능 또는 댓글로써 대화를 할수있도록 도와줍니다.
 
 git branch branchname(branch1)
+
+dd
