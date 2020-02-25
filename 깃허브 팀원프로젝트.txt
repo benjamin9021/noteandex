@@ -22,4 +22,5 @@ issue는 게시판 기능 또는 댓글로써 대화를 할수있도록 도와�
 
 git branch branchname(branch1)
 
-dd
+
+깃허브에서 브랜치생성후 다시 git pull
