@@ -24,3 +24,34 @@ git branch branchname(branch1)
 
 
 깃허브에서 브랜치생성후 다시 git pull
+
+
+관리자가 repository 생성 그리고 각 브랜치 생성
+
+모든 팀원 콜라보레이터
+
+그리고 팀원 깃 clone  git pull 일단 해줍니다. 
+
+각팀원의 깃 브런치 네임 (ex. git checkout origin/min 하면 브랜치가 스위치됨)
+
+git branch를 해서 자신의 브랜치를 확인해줍시다.
+
+파일 git add * or (자신이 올릴파일_) 
+
+git commit -m ""
+
+git push origin head:min
+
+그렇게 되면 푸쉬가 됩니다.
+
+마지막으로 merge를 위해서 pull request 를 해야하는데 compare 자신의 branch
+
+pull request 에서 new pull request후에 merge할수있다고 알림이뜸
+
+create pull request가 클릭 밑으로 내리면 merge를 할수있게 도와줍니다
+
+그려면 병합이 됩니다.
+
+작업을 하실때마다 git pull로 계속 땡겨주세요,
+
+
